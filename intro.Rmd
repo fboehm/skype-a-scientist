@@ -1,0 +1,58 @@
+---
+title: "Introduction"
+author: "Frederick J. Boehm"
+date: "12/28/2019"
+output: bookdown::tufte_html2
+params:
+  lastmod: !r lubridate::now()
+---
+
+Last modified: `r params$lastmod`.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Diversity in appearances
+
+- height 
+- weight
+
+- use photos
+
+## Some aspects of appearance are inherited
+
+- height
+
+- weight
+
+- family studies
+
+
+## Inherited diseases
+
+
+## What is a quantitative trait?
+
+- Characteristics like height or weight or blood pressure are collectively called "quantitative traits". "Trait" is another word for "characteristic". "Quantitative" means that the trait has an associated number, like your height in inches or your blood pressure in mm mercury. Hair color, on the other hand, has no associated number. You can't say that brown hair is number 1, while blonde hair is number 2.
+
+## Genetic similarity among humans
+
+## Genetic differences among humans
+
+Because there are genetic differences in humans, we can 
+try to see any of these differences affect quantitative traits like disease susceptibility. 
+
+## possible readings
+
+https://www.npr.org/templates/story/story.php?storyId=4843170
+
+
+
+
+
+
+
+
+
