@@ -1,0 +1,24 @@
+---
+title: "Complex trait genetics in mice"
+date: "2/8/2020"
+output: pdf_document
+---
+
+Dear students,
+
+Thank you for the opportunity to speak with you via Skype. I study statistics and genetics,
+and I'm very excited to talk science with you.
+
+To prepare for our Skype conversation, I have a few small requests. First, please read this short news story: https://www.jax.org/news-and-insights/2017/june/multi-parent-mouse-populations-reveal-genomic-secrets
+
+
+Then, please complete this short survey:
+
+https://docs.google.com/forms/d/e/1FAIpQLSc1Qu5wjgaLuTTjC1D3izoUOokQSGhCd6jELY400PBNe-fcFg/viewform?usp=pp_url
+
+Be sure to ask lots of questions in the survey.
+
+Thank you.
+
+Sincerely,
+fred
